@@ -1,3 +1,7 @@
+*.pro.user
+generateIndividualReport
+Makefile
+
 # Compiled Object files
 *.slo
 *.lo
